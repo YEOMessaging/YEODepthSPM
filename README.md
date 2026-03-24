@@ -1,1 +1,1 @@
-# YEOLiveness SPM package
+# YEODepth SPM package
